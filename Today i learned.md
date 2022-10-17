@@ -7,4 +7,10 @@ today I learned about what I will do for the next week, and I and my team will m
 
 our project topis is we make web voting
 
-##
+## What you have done so far
+
+I learning about Github and make a new friends
+
+## your goal in this Bootcamp
+
+I want to be a web developer and understand every coding
