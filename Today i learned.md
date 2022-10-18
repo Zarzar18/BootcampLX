@@ -1,16 +1,17 @@
-# Experience day 1
+# Experience day 2
 
-today I learned about what I will do for the next week, and I and my team will make a mini project
-![image](https://user-images.githubusercontent.com/116019530/196231770-2772775a-0e26-433f-b95d-16c166a238c1.png)
+## Your team goal today
 
-## Team Project Topic
+today my team and I have made a login
 
-our project topis is we make web voting
+## What you have done today
 
-## What you have done so far
+I learning about Git and learning more about github
 
-I learning about Github and make a new friends
+## your reflection (what you did great, what you need to improve)
 
-## your goal in this Bootcamp
+what i need to improve is i still more learning where is go and i need to more learn in ajax and jquery
 
-I want to be a web developer and understand every coding
+## The plan for tomorrow
+
+for tomorrow we have discussed to tidy up the login display and start creating our website
