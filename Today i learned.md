@@ -1,17 +1,20 @@
-# Experience day 2
+# Experience day 3
 
-## Your team goal today
+## Team progress for today
 
-today my team and I have made a login
+today my team already make form login and for the vote website is in the last stage
 
-## What you have done today
+## What you have completed today
 
-I learning about Git and learning more about github
+like before i have new learn about git and jquery
+
+## New things that you’ve learned / error
+
+i got error when i want to git pull i cant and i discuss with my team and i found the 
 
 ## your reflection (what you did great, what you need to improve)
 
-what i need to improve is i still more learning where is go and i need to more learn in ajax and jquery
-
+what i need to improve is i still more learning where is go coding and learn more about git and python
 ## The plan for tomorrow
 
-for tomorrow we have discussed to tidy up the login display and start creating our website
+for tomorrow we have discussed to complete the project on time
